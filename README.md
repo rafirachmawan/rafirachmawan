@@ -1,72 +1,42 @@
-👋 Hi, I’m Rafi Rachmawan
+# Hi, I'm Rafi Rachmawan 👋
+**Full-Stack Developer & Mobile Developer**
 
-Saya Rafi Rachmawan, seorang Full-Stack Developer yang fokus membangun aplikasi digital yang benar-benar dipakai di dunia nyata — bukan sekadar demo.
+Saya seorang Full-Stack Developer yang fokus membangun aplikasi digital yang benar-benar dipakai di dunia nyata — bukan sekadar demo. Saya terbiasa membantu bisnis, instansi, dan tim operasional mengubah proses manual menjadi sistem digital yang rapi, aman, dan efisien; mulai dari manajemen inventaris, absensi, dashboard monitoring, hingga sistem laporan otomatis.
 
-Saya terbiasa membantu bisnis, instansi, dan tim operasional mengubah proses manual menjadi sistem digital yang rapi, aman, dan efisien, mulai dari inventory, absensi, dashboard monitoring, hingga sistem laporan otomatis.
+Bagi saya, kode bukan hanya soal jalan atau tidak, tapi soal stabil, *scalable*, dan mudah dikembangkan ke depan.
 
-Bagi saya, kode bukan hanya soal jalan atau tidak, tapi soal stabil, scalable, dan mudah dikembangkan ke depan.
+---
 
-💡 What I Do Best
+### 💡 What I Do Best
+* 🚀 **End-to-End Development:** Membangun Web dan Mobile App dari nol sampai siap produksi.
+* 🧠 **System Architecture:** Mendesain arsitektur sistem & database yang kuat dan terstruktur.
+* 🔒 **Security First:** Implementasi authentication, role-based access control, dan keamanan data.
+* ⚡ **Automation & Real-time:** Sistem real-time & automation (laporan, PDF, Google Sheets, dashboard).
+* 🎨 **Modern UI/UX:** Tampilan yang clean, modern, dan responsif untuk kebutuhan bisnis.
+* 🛠️ **Maintenance & Scaling:** Debugging, optimasi performa, dan scaling aplikasi.
 
-🚀 Membangun Web, Mobile, dan Desktop App dari nol sampai siap produksi
+---
 
-🧠 Mendesain arsitektur sistem & database yang kuat dan terstruktur
+### 🛠️ Tech I Use
 
-🔐 Implementasi authentication, role-based access control, dan keamanan data
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend & Mobile** | React Native, TypeScript, Next.js, React.js, Tailwind CSS |
+| **Backend & Database** | Node.js, Firebase (Firestore, Auth, Functions), PostgreSQL |
+| **Tools & Infrastructure** | Git, GitHub, AVD / Emulator, Vercel, Expo |
 
-⚡ Sistem real-time & automation (laporan, PDF, Google Sheets, dashboard)
+---
 
-🎨 UI/UX modern, clean, dan responsif untuk kebutuhan bisnis
+### 📈 GitHub Stats
 
-🛠️ Maintenance, debugging, optimasi, dan scaling aplikasi
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=rafirachmawan&show_icons=true&theme=tokyonight&count_private=true" alt="Rafi's GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafirachmawan&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
+</p>
 
-🧰 Tech I Use
+---
 
-Frontend
-
-React, Next.js, React Native
-
-TypeScript, Tailwind CSS
-
-Backend & Data
-
-Node.js
-
-PostgreSQL, Firebase, Supabase
-
-Tools & Platform
-
-Git, GitHub
-
-Vercel, Render
-
-Electron
-
-Google Apps Script
-
-🎯 My Focus
-
-Sistem internal perusahaan & UMKM
-
-Inventory & warehouse management
-
-Absensi, HR, dan monitoring kinerja
-
-Dashboard & reporting otomatis
-
-Custom web & mobile application
-
-🤝 Let’s Collaborate
-
-Saya terbuka untuk:
-
-Freelance project
-
-Kerja sama jangka panjang
-
-Pengembangan sistem internal
-
-Custom application sesuai kebutuhan bisnis
-
-📩 Hubungi saya melalui GitHub atau platform profesional Anda.
-Saya percaya solusi terbaik lahir dari komunikasi yang jelas dan eksekusi yang rapi.
+### 🤝 Connect with Me
+* 💼 **LinkedIn:** [https://www.linkedin.com/in/rafi-rachmawan-2a8728233/)
+* 🌐 **Website / Portfolio:** [https://website-profile-react.vercel.app/)]
+* 📧 **Email:** [rafirachmawan1987@gmail.com]
