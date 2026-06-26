@@ -30,7 +30,7 @@ Bagi saya, kode bukan hanya soal jalan atau tidak, tapi soal stabil, *scalable*,
 ### 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafirachmawan&show_icons=true&theme=tokyonight&count_private=true" alt="Rafi's GitHub Stats" height="180px" />
+ <img src="https://github-readme-stats.vercel.app/api?username=rafirachmawan&show_icons=true&theme=tokyonight&count_private=true&hide_rank=true" alt="Rafi's GitHub Stats" height="180px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafirachmawan&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
 </p>
 
